@@ -7,12 +7,12 @@ print("Hello world")
 var1 = 1  # Int
 var2 = 1.3  # float
 var3 = "PythonE"  # string
-
+    
 # List, Tuple, Dictionary, Sets
 
 list1 = [1, 2, 3, 4, 5]
-list2 = ["John Smith", "Mundane mann", "Cid", "Shadow"]
-tuple1 = (6, 7, 8, 9,)
+list2 = ["John Smith", "Mundane mann", "Cid", "Shadow", "Stylish Bandit Slayer"]
+tuple1 = (6, 7, 8, 9, 10)
 tuple2 = ("Ben Affleck", "Christian Bale", "Robert Pattinson", "Micheal Keaton")
 dict1 = {
     12: "twelve",
