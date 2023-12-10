@@ -12,7 +12,7 @@ var3 = "PythonE"  # string
 
 list1 = [1, 2, 3, 4, 5]
 list2 = ["John Smith", "Mundane mann", "Cid", "Shadow"]
-tuple1 = (6, 7, 8, 9, 10)
+tuple1 = (6, 7, 8, 9,)
 tuple2 = ("Ben Affleck", "Christian Bale", "Robert Pattinson", "Micheal Keaton")
 dict1 = {
     12: "twelve",
